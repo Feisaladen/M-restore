@@ -122,7 +122,7 @@
 
           msg.textContent = '🤖 Analyzing image... please wait (this may take 30-60 seconds)';
 
-          const res = await fetch('http://localhost:3000/api/analyze', {
+          const res = await fetch('https://m-restored.onrender.com', {
             method: 'POST',
             body: formData,
           });
