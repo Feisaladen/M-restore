@@ -162,7 +162,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Feisal Aden**
-- GitHub: [@feisaladen](https://github.com/feisaladen)
 - Email: feisaladen32@gmail.com
 
 ---
@@ -181,5 +180,5 @@ If you encounter any issues or have questions, contact via email: **feisaladen32
 
 ---
 
-**Made for humanity to serve humanity** 🌍❤️
+**Made by human  to serve humanity** 🌍❤️
 
